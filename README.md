@@ -1,3 +1,3 @@
 # First-Week-Hw
 
-Author Name: Lacey Aguigam Purpose: Lecture Activity
+Author Name: Lacey Aguigam Purpose: Lecture Activity 1
